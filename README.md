@@ -10,7 +10,8 @@ This project implements a face recognition system leveraging techniques explored
 ## Benefits of PCA:
    * Improves computational efficiency of the MLP model.
    * Focuses training on key features extracted during PCA.
-## Software: Jupyter Notebook served as the primary development environment for this project
+## Software: 
+   * Jupyter Notebook served as the primary development environment for this project
 
 
 
